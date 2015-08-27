@@ -1,10 +1,15 @@
+/* line 3, ../components/css/style.scss */
 h1 {
-  color: #6cd126; }
+  color: #fff; }
 
+/* line 7, ../components/css/style.scss */
 p {
-  color: #6cd126; }
+  color: #fff; }
 
+/* line 10, ../components/css/style.scss */
 body {
-  background-color: rgba(147, 221, 143, 0.66); }
+  background-color: #82123b; }
 
-/*# sourceMappingURL=style.css.map */
+/* line 13, ../components/css/style.scss */
+* {
+  margin: 0px; }
